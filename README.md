@@ -14,6 +14,18 @@ We will be using unsupervised learning to create a model for cryptocurrency data
 
 Reference [[1]](#1) to see the results of our data analysis.
 
+<p align="center"> <img src="Resources/PCA.png" width ="50%" alt="PCA"> </p>
+<p align="center"> Figure 1: PCA Table</p> 
+
+<p align="center"> <img src="Resources/ElbowCurve.png" width ="50%" alt="ElbowCurve"> </p>
+<p align="center"> Figure 2: Elbow Curve</p> 
+
+<p align="center"> <img src="Resources/3D.png" width ="50%" alt="3D"> </p>
+<p align="center"> Figure 3: 3D Plotting with 3 Most Important Features from PCA</p> 
+
+<p align="center"> <img src="Resources/ScatterPlot.png" width ="50%" alt="ScatterPlot"> </p>
+<p align="center"> Figure 4: Total Coul Supply vs Total Coins Mined Scaled Values</p> 
+
 ## <a name="Summary"></a> Summary
 
 We grouped the data into 4 clusters, based on our Elbow Curve results. There doesn't seem to be a clear relationship between the TotalCoinSupply and the TotalCoinsMined for the different cryptoc currencies.  
