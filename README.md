@@ -20,7 +20,7 @@ We grouped the data into 4 clusters, based on our Elbow Curve results. There doe
 
 ## <a name="Resources"></a>Resources
 
-<a name="1">[1]</a> [Cryptocurrency Code](https://github.com/tamiespinosa/Cryptocurrencies/blob/56324a0e25bc3ad9c95cb3f569fa8aedd12a539d/crypto_clustering.ipynb)
+<a name="1">[1]</a> [Cryptocurrency Code](https://github.com/tamiespinosa/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
 
 <a name="2">[2]</a> [Cryptocurrency Data CSV](https://github.com/tamiespinosa/Cryptocurrencies/blob/56324a0e25bc3ad9c95cb3f569fa8aedd12a539d/Resources/crypto_data.csv)
 
